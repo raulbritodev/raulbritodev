@@ -13,14 +13,8 @@
   <br/><br/>
 
   <!-- Links de Redes Sociais com badges estilizadas -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:raulrb4.plis@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://seusite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 
 </div>
